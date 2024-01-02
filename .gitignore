@@ -1,0 +1,6 @@
+EventHub/bin/
+EventHub/obj/
+QueueApp/bin/
+QueueApp/obj/
+WatchFunctionsTests/obj/
+.vs/
